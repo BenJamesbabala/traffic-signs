@@ -1,5 +1,30 @@
 # Self-Driving Car Engineer Nanodegree
 # Deep Learning
+
+# ---- 作者的话开始 ----
+
+# 效果
+
+本程序实现一个可以识别交通标志的神经网络，输入为一张32\*32的彩色图像，输出为43种交通标志的预测结果。
+
+![](https://raw.githubusercontent.com/ypwhs/resources/master/WechatIMG2014.jpeg)
+
+### 数据集地址下载地址：[traffic-sign-data.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/October/580d53ce_traffic-sign-data/traffic-sign-data.zip)
+
+数据集预览
+
+![](https://raw.githubusercontent.com/ypwhs/resources/master/WechatIMG2005.jpeg)
+
+# 思路
+
+照着 Keras 的 [cifar10_cnn](https://github.com/fchollet/keras/blob/master/examples/cifar10_cnn.py) 搭就行，训练结果 97% 左右。
+
+我的代码：[Traffic_Signs_Recognition.ipynb](Traffic_Signs_Recognition.ipynb)
+
+参考文献：[Traffic Sign Recognition with Multi-Scale Convolutional Networks](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
+
+# ---- 作者的话结束 ----
+
 ## Project: Build a Traffic Sign Recognition Program
 
 **This is a Work In Progress**
