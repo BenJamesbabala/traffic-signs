@@ -9,7 +9,7 @@
 
 ![](https://raw.githubusercontent.com/ypwhs/resources/master/WechatIMG2014.jpeg)
 
-### 数据集地址下载地址：[traffic-sign-data.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/October/580d53ce_traffic-sign-data/traffic-sign-data.zip)
+### 数据集地址下载地址：[traffic-sign-data.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/October/580d53ce_traffic-sign-data/traffic-sign-data.zip) [百度云](https://pan.baidu.com/s/1o8vsIZS)
 
 数据集预览
 
